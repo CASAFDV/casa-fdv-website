@@ -81,7 +81,7 @@ const ramas = [
     color: 'from-rose-500 to-pink-700'
   },
   {
-    nombre: 'Women - Teens',
+    nombre: 'Women - Héroes & Teens',
     descripcion: 'Diseñado especialmente para adolescentes mujeres, este programa guía a las jóvenes en su desarrollo espiritual y personal. Abordamos temas relevantes para su etapa de vida con un enfoque bíblico y contemporáneo.',
     actividades: ['Grupos de estudio para teens', 'Actividades recreativas', 'Mentoría joven a joven', 'Talleres de autoestima', 'Retiros de jóvenes'],
     horario: 'Miércoles 4:00 PM',
