@@ -61,7 +61,7 @@ const ramas = [
     descripcion: 'Es el primer nivel de crecimiento para los jóvenes de nuestra congregación. Aquí los varones aprenden los fundamentos de la fe cristiana desde una perspectiva masculina, desarrollando su identidad en Cristo como futuros esposos, padres y líderes.',
     actividades: ['Estudios bíblicos para jóvenes', 'Grupos de accountability', 'Retiros masculinos', 'Mentoría personalizada', 'Actividades deportivas'],
     horario: 'Viernes 8:00 PM',
-    imagen: '/images/hombria.png',
+    imagen: '/images/hteens.png',
     color: 'from-blue-600 to-blue-800'
   },
   {
