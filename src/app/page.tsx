@@ -394,7 +394,7 @@ export default function Home() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-700 text-lg leading-relaxed">
-                    Ser una iglesia que transforma generaciones, siendo luz en la oscuridad y sal de la tierra. Visualizamos una comunidad donde cada persona encuentra su propósito en Dios, desarrolla su potencial único y vive una vida plena en Cristo, reflejando el amor del Padre, el hijo y el Espíritu Santo.
+                    No queremos Iglesias llenas, queremos Familias felices y para llegar a ello se levantan discípulos de cristo, entrenados para obedecer lo que el cielo está diciendo (Así como en el Cielo sea en la Tierra-Mateo 6:10)
                   </p>
                 </CardContent>
               </Card>
