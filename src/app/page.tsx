@@ -379,7 +379,7 @@ export default function Home() {
                 </CardHeader>
                 <CardContent>
                   <p className="text-gray-700 text-lg leading-relaxed">
-                    Llevar el mensaje de salvación y esperanza a cada persona, transformando vidas a través del amor de Dios. Formamos discípulos comprometidos que impactan sus familias, comunidades y el mundo entero con el evangelio de Jesucristo, manifestando los colores del Pacto en todo lo que hacemos.
+                    Somos una Iglesia que llevamos a las personas a vivir en plenitud con Jesús. Para que puedan soltar su cultura y lograr que día a día puedan vivir como en el cielo y no como en la tierra, que se traduce a vivir netamente para Dios.
                   </p>
                 </CardContent>
               </Card>
